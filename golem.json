@@ -1,0 +1,166 @@
+{
+	"Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/1_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/pLGaWbBS2bzG0Uv-VaNQ7LJ2M2XGT_nSOP4N4u4Z2zqlKxXLqLKuaKpu94GEdUVDsLahm_jmIFkd6u-FXiMgbYA"
+    },
+    {
+      "id":2,
+      "name_skin":"Iron Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/2_iron_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/9E-V-eVYDJWvA3wEpzV6kVFrbXO7UEFmcnbfrpQmukmCpo5ksEg1PBjrWK2ECHSwg8-kqrPbaiatL0JHJbWKBg"
+    },
+    {
+      "id":3,
+      "name_skin":"Golem-Uwu",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/3_golam_uwu.png",
+      "view_skin":"https://lh3.googleusercontent.com/5S8dax6pLnqilV8ofvHxrY8IId7K5G0H035xmam1fuGpgWMFWVXjJgdvBToexW0yCOUuanVmwQumC3ltgr5V"
+    },
+    {
+      "id":4,
+      "name_skin":"Mc Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/4_mc_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/rGRuEyyWHMFlwE981J6eEV995_X4M9dVgLekS37mvwAfvz3WVG3phMYMJNOJYTRm7yb0-HjTzN9fooudUaYh9A"
+    },
+    {
+      "id":5,
+      "name_skin":"Ging Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/5_diogoswag_golam_inacabado.png",
+      "view_skin":"https://lh3.googleusercontent.com/xdmlFmTZ6pqBZxFioeT1qPVV42-RxE9-rhsKaX3yfGAV_2Zp63wUGZ-y3J8rvb758GgMHk8S_c5b6HFL2J5d"
+    },
+    {
+      "id":6,
+      "name_skin":"Diogoswag Golem Inacabado",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/6_hemsy_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/VSuJ6c0TZNd-VPkuKqpdxxOqMNoNwklPLJwjHzX9yIBYV4XfAIK-CUbV_2k0V87HERBNHgNDSIgeEHr3Nh-fyyM"
+    },
+    {
+      "id":7,
+      "name_skin":"Hemsy Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/7_knight_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/gBW95_lRVtZAWG47iVXf2O7b9IIdr99hz54QY4jST3ga_uTxVP59tOzmcPbjiWNo1b66GbzcnSjDeShuXbmL0T0"
+    },
+    {
+      "id":8,
+      "name_skin":"Knight Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/8_hulk_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/xApYGpbh8Qszogt99NBy1nNpOuUUIksXUHtV_2y8wIRpMJaZ6c3_KyDFWeudKiLosQc-plhFaxf23wL5U9N1"
+    },
+    {
+      "id":9,
+      "name_skin":"Hulk Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/9_hero_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/vwC9f6A1JdZgyMfog8e61b5zcm9MAtVrE0ao1ADdl2opGC_7EQ9EHGRZspCKfaCqvd2pIfvokzXkc9qUhLis"
+    },
+    {
+      "id":10,
+      "name_skin":"Hero Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/10_golam_stine.png",
+      "view_skin":"https://lh3.googleusercontent.com/5sdPNIOucZp1s83FG7tch37DEmsVSeNY85TjsdVFkLfna5WZj7wgNGjkdO8tzWfLbaop1uRde6wi14q0JdrC"
+    },
+    {
+      "id":11,
+      "name_skin":"Golem Stine",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/11_garding_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/wvweihNYhV8v5VOPoy-l-4wxZY21rVWV6e5tEYQQvycCsfXe7eEqdb66B5S52YYSB46QW4SM63HyO-UstKtUtg"
+    },
+    {
+      "id":12,
+      "name_skin":"Garding Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/12_snow_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/KV7Au3RlBYUorW7_KRrs6UYvNxfhJGC3CmkITGwTlATbcSejXPqQWULsFnewOJGC_uQngVgTROn8Vx5xDic1XV0"
+    },
+    {
+      "id":13,
+      "name_skin":"Snow Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/13_black_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/maFKY4zonpgmCcncVyv3Nd2xVGT5AmLkkz4-sS29QgjIFLK2hNGAJ3x3Pec_vvgi5Dpw9MKqxagQh4XDG9nYLwg"
+    },
+    {
+      "id":14,
+      "name_skin":"Black Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/14_blacf_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/kKsf-cL1c5Pk_FHioFW2e5PAFRZhs7usqyBQHWjLrFv4IhTERv2o0BmcuucldY17CWBN_L49kt2yTws6jJwbryM"
+    },
+    {
+      "id":15,
+      "name_skin":"Blacf Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/15_ender_golam_vires.png",
+      "view_skin":"https://lh3.googleusercontent.com/G3iMpTj6dhnMUpsQc20PFdAh170MUDeBWu2XP148nrUmCNxRc0OcuFUDOUW_Laptg_O3OLxr6maGJDXrbHTWi_0"
+    },
+    {
+      "id":16,
+      "name_skin":"Ender Golem Vires",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/16_evil_snow_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/LkI2iozgWaSOtQzVcUzOkiPhI3IgaIqcGu3iJNQ6NA4ZHisLmArxgLI26MwuqRzwMQWkf1ERjTF4a9CP4Cha4A"
+    },
+    {
+      "id":17,
+      "name_skin":"Enderman Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/17_ninja_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/BlGWbjTjsdhY6Riu7aAj5DVLGSyMp1x6aYDn9KbC8_rIOdARxaFg6vW0S7wMrbv4xIqWIvYD8xeKwdwKZI_8"
+    },
+    {
+      "id":18,
+      "name_skin":"Evil Snow Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/18_ender_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/SdXL_PGBMA4AiY2aYuKAza_XbM99KshwaLv6r4BoDDErN7xd2hJ3dM-U0MqVePQgxuJgO0jyuDhoHba8Z-Ly-Q"
+    },
+    {
+      "id":19,
+      "name_skin":"Ninja Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/19_enderman_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/JbudDzZh_h6C6YI-hMSk8fRHSuAuvs5B9Z_oLw3ZAeyUuv7KBdMisvCWCMQ0Dsz4jkpHQ7Mrv2I468PMFfEB5Q"
+    },
+    {
+      "id":20,
+      "name_skin":"Ender Golem",
+      "skin_url":"https://ia601509.us.archive.org/1/items/golam/20_ging_golam.png",
+      "view_skin":"https://lh3.googleusercontent.com/hv0bAx60PM3ulYwYsZxPQYWF3vKyqQs5MOBxuAJXhy_ODBqdpR9awRsyahZQn-mFXvfKDMtgQ8mJc1K4NY6nhw"
+    }
+  ],
+  "Addons":
+  [
+
+  ],
+  "Maps":
+  [
+
+  ]
+}
