@@ -1,0 +1,136 @@
+{
+	"Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Among Us Red",
+      "skin_url":"https://ia801406.us.archive.org/21/items/skin-among-us/Image%20among%20us/1.amongus-red.png",
+      "view_skin":"https://lh3.googleusercontent.com/h1TfkH4z5VVkytB39cRrIjvM8Q9ywEN68-ectw352qXMceAqnF1bBkQbkREBkMHX3lxFkUjPq7VzM2OA7MuciQ"
+    },
+    {
+      "id":2,
+      "name_skin":"Among Us Blue",
+      "skin_url":"https://ia801406.us.archive.org/21/items/skin-among-us/Image%20among%20us/2.amongus-blue.png",
+      "view_skin":"https://lh3.googleusercontent.com/Ig1wn0Gh1-0b_aHgbfZWjZG9BwpRPW0moikskQSLX5VcxsMkEcm0Au6hwR6smAjJjvSN-XL78GWqHGFvLqt-fSE"
+    },
+    {
+      "id":3,
+      "name_skin":"Among Us Yellow",
+      "skin_url":"https://ia801406.us.archive.org/21/items/skin-among-us/Image%20among%20us/3.amongus-yellow.png",
+      "view_skin":"https://lh3.googleusercontent.com/d02VWGFnfXkFXnpRZGB5_kJoiaLaX7cOp7P_R4u0FiQx1eZDC3llfl-tj2VCkxgZfmrcqe38R5DAfPFkFIxLnQ"
+    },
+    {
+      "id":4,
+      "name_skin":"Among Us Preto",
+      "skin_url":"https://ia801406.us.archive.org/21/items/skin-among-us/Image%20among%20us/4.amongus-preto.png",
+      "view_skin":"https://lh3.googleusercontent.com/s6MAn8-8v-91BsGZQOHD_2lPcFHVinqGxBWE950HXon2ejftbIZikRXi0b0NC10IabrY6LHXN5duyIUjX8NBhA"
+    },
+    {
+      "id":5,
+      "name_skin":"Among US Green",
+      "skin_url":"https://ia801406.us.archive.org/21/items/skin-among-us/Image%20among%20us/5.amongus-green.png",
+      "view_skin":"https://lh3.googleusercontent.com/zydtHmv7UosqPg6oVGpyX7tLKEoMjV8gmP_Nbon39q2MFTf0Yw0rRiaZumMYUGM8olF7a6jSmy_VvCH_VJhSuLc"
+    },
+    {
+      "id":6,
+      "name_skin":"Among Us Cyan",
+      "skin_url":"https://ia801406.us.archive.org/21/items/skin-among-us/Image%20among%20us/6.amongus-cyan.png",
+      "view_skin":"https://lh3.googleusercontent.com/-fXbz2Vj60dJjez70EB5E4ToLliIfMOJ5v69YGYr9_iFOCMu1Ds1VSrEjINydmgooWJWpjQpEfesBoNgBkpzwQ"
+    },
+    {
+      "id":7,
+      "name_skin":"Among Us White",
+      "skin_url":"https://ia801406.us.archive.org/21/items/skin-among-us/Image%20among%20us/7.amongus-white.png",
+      "view_skin":"https://lh3.googleusercontent.com/yH8pXcvM_KkPLMbjjUV26B-wCVr6zrkkj6T7q7noN3CaMK4AaNRz4IdMoMQddJ73cknu33fTpwyvoE-bNiEiRQ"
+    },
+    {
+      "id":8,
+      "name_skin":"Among Us Wulfenite",
+      "skin_url":"https://ia801406.us.archive.org/21/items/skin-among-us/Image%20among%20us/8.amongus-wulfenite.png",
+      "view_skin":"https://lh3.googleusercontent.com/r35NeFwzOF06IBZaOdo_-ZWRXJH5COoN56brmda0F0B7scvuOh5Q3ZJeds2k9K8NMfddWCJWUMM5tH9HRJs2Bw"
+    },
+    {
+      "id":9,
+      "name_skin":"Among Us YEET",
+      "skin_url":"https://ia801406.us.archive.org/21/items/skin-among-us/Image%20among%20us/9.amongus-yeet.png",
+      "view_skin":"https://lh3.googleusercontent.com/FketSktDNhXgT1F4L5mR2NYjfU7N7qxBBKnE5CV6b-o-007T-Rw5u7_gRYgdrg98mMwHs92WQpG-9qgGITs4jA"
+    },
+    {
+      "id":10,
+      "name_skin":"Among US Purple",
+      "skin_url":"https://ia801406.us.archive.org/21/items/skin-among-us/Image%20among%20us/10.amongus-purple.png",
+      "view_skin":"https://lh3.googleusercontent.com/uhZkXUlIO1m8_Dapi7N3hAt0TbXHRSzfiEMZwZuYmfssT3Cgg8XpftcXWLNhyzO5gog2Uxzfi20aRJlQQvII"
+    },
+    {
+      "id":11,
+      "name_skin":"Among Us Elian",
+      "skin_url":"https://ia601406.us.archive.org/21/items/skin-among-us/Image%20among%20us/11.amongus-elian.png",
+      "view_skin":"https://lh3.googleusercontent.com/UGeD3oIODviXCXagAJr6l7QCZK4t7favBDFBkQGlObbbGru8OdpfAZBR-cmKfriwr2bu55zLkVVJs8_iGna1xL4"
+    },
+    {
+      "id":12,
+      "name_skin":"Among Us Enby",
+      "skin_url":"https://ia801406.us.archive.org/21/items/skin-among-us/Image%20among%20us/12.amongus-enby.png",
+      "view_skin":"https://lh3.googleusercontent.com/1pX9FBDxBpJp1qtH4aJDRQpPdrhLcMKI_jPbrhP8sRQrB1bl-WxlULFDxVNzZfTyvGBF3HoN1gr7T5cqXPimIw"
+    },
+    {
+      "id":13,
+      "name_skin":"Among Us Black Doctor",
+      "skin_url":"https://ia801406.us.archive.org/21/items/skin-among-us/Image%20among%20us/13.amongus-blackdoctor.png",
+      "view_skin":"https://lh3.googleusercontent.com/6LSXov-nVk0zlJ1OSHgRikjBvGdSj0dOzsvAu1o4yPIIRE-KOosSXmyC3d2tI6fUPFfbeJg8Hgzk8AO7JB_vHw"
+    },
+    {
+      "id":14,
+      "name_skin":"Among Us Skin Neon",
+      "skin_url":"https://ia801406.us.archive.org/21/items/skin-among-us/Image%20among%20us/14.amongus-skinneon.png",
+      "view_skin":"https://lh3.googleusercontent.com/UK13yeC6SmTR4vuLULRGRm972jfomiUzXXQsfDBfP3R6qHFBXrGm_LZi9463soTs-7E_mU18luTqYK39hBAz8g"
+    },
+    {
+      "id":15,
+      "name_skin":"Among Us Elemental Player",
+      "skin_url":"https://ia801406.us.archive.org/21/items/skin-among-us/Image%20among%20us/15.amongus-elementalplayer.png",
+      "view_skin":"https://lh3.googleusercontent.com/8dBaG__0K7NMJxiSVHTwG2BZfdYPTf55431OqP4MWUvQ9_vRt0xMIZxn3QbOY4trwjRczif6pUgcOD8mz8YM90A"
+    }
+  ],
+  "Addons":
+  [
+
+  ],
+  "Maps":
+  [
+
+  ]
+}
