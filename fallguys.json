@@ -1,0 +1,136 @@
+{
+	"Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Fall Guys Red",
+      "skin_url":"https://ia801505.us.archive.org/9/items/fall-guys_202010/Image/1.%20FallGuys-Red.png",
+      "view_skin":"https://lh3.googleusercontent.com/bdr1lpYDIejQ4YjI4DPbbUgT03a4KK1bUxoKPTDTwlcNb69dka9l4rKxSoWPf5lyEcT2hQCgeRN0sp705h6y"
+    },
+    {
+      "id":2,
+      "name_skin":"Fall Guys Pigeon",
+      "skin_url":"https://ia601505.us.archive.org/9/items/fall-guys_202010/Image/2.%20FallGuys-Pigeon.png",
+      "view_skin":"https://lh3.googleusercontent.com/uvX0IIkj_BBo6VW05osLv1REe2haz2Qc6J9kIul_sy7qL9xptABjUnPFDbQl_4WUxAiVrEdfUuCGlcMylwGX"
+    },
+    {
+      "id":3,
+      "name_skin":"Fall Guys",
+      "skin_url":"https://ia601505.us.archive.org/9/items/fall-guys_202010/Image/3.%20Fall-Guys.png",
+      "view_skin":"https://lh3.googleusercontent.com/77OTtt3fxHQ6w-qXdhKaGZnDeeuua8HVvkbqUiltLM9gBUOGAFkJjpPnvcxALPVFPvj_ty53QGzgzstfR9zD"
+    },
+    {
+      "id":4,
+      "name_skin":"Fall Guys Pollo",
+      "skin_url":"https://ia601505.us.archive.org/9/items/fall-guys_202010/Image/4.%20fallGuys-Pollo.png",
+      "view_skin":"https://lh3.googleusercontent.com/Q-SIbz-KeT1SHxdWCnWHam_WO7eJgM0ENAtd3bI6f3YsMci5wC3jDl0MDPUgVRQHuR2SFLPqXtUGgxrQZLvoNA"
+    },
+    {
+      "id":5,
+      "name_skin":"Ninja Fall Guys",
+      "skin_url":"https://ia601505.us.archive.org/9/items/fall-guys_202010/Image/5.%20FallGuys-Ninja.png",
+      "view_skin":"https://lh3.googleusercontent.com/lYQy7odd3PBHVWADeHUgUupXbk0j91KO4SSg_CW8uBgrUn8gZKH3xE5qYHPcRh-88aMIqtUDpuOKLFO9QkOZ"
+    },
+    {
+      "id":6,
+      "name_skin":"Fall Guys Blaze",
+      "skin_url":"https://ia601505.us.archive.org/9/items/fall-guys_202010/Image/6.%20fallGuys-Blaze.png",
+      "view_skin":"https://lh3.googleusercontent.com/_dnNOmLcvAZEMOV9IWJFyp-ho55BcQuPbdxIG4cNARh_VPArSmj74qGqdgCyuOXtoGMgvzuzUb5m7s6pODA7"
+    },
+    {
+      "id":7,
+      "name_skin":"Fall Guys Steve",
+      "skin_url":"https://ia601505.us.archive.org/9/items/fall-guys_202010/Image/7.%20FallGuys-Steve.png",
+      "view_skin":"https://lh3.googleusercontent.com/kirl2SYGDDh19ck894jSl--tjCnioh1tnRVC2uQTwINYyn-DYfER7lxpVSVn9v0Rwf2cFMGOJ9BuANTGfbKKFSY"
+    },
+    {
+      "id":8,
+      "name_skin":"Fall Guys Winnie",
+      "skin_url":"https://ia601505.us.archive.org/9/items/fall-guys_202010/Image/8.%20Fallguys-Winnie.png",
+      "view_skin":"https://lh3.googleusercontent.com/WTKUWizBHuYODmattKDUNVz_Xy00QFswFCaVH7t6CItrBy2FH6U23F1iRIII7oZrZyUXjtg928LM5-ZY4OjCUg"
+    },
+    {
+      "id":9,
+      "name_skin":"Fall Guys Ananas",
+      "skin_url":"https://ia601505.us.archive.org/9/items/fall-guys_202010/Image/9.%20FallGuys-Ananas.png",
+      "view_skin":"https://lh3.googleusercontent.com/8-HXE8xcTuDNL18tB13i8LBySc1SC9hA-YMYRF7Pkx5E7Wz-ak_4PghK66A3yIniuSmxL4DElgFqvXDtVwwD"
+    },
+    {
+      "id":10,
+      "name_skin":"Fall Guys Hot Dog",
+      "skin_url":"https://ia801505.us.archive.org/9/items/fall-guys_202010/Image/10.%20FallGuys-Hotdog.png",
+      "view_skin":"https://lh3.googleusercontent.com/d0iPbZ6De5H0IlDTrbFLX1zvHvXp8iz9Zv6FM5fOiSMh_eoaOj3PWYAkq4uZS6vrfskuP0z8B4ZiIomra0P7WC4"
+    },
+    {
+      "id":11,
+      "name_skin":"Fall Guys EXE Boi",
+      "skin_url":"https://ia801505.us.archive.org/9/items/fall-guys_202010/Image/11.%20FallGuys-Exe.png",
+      "view_skin":"https://lh3.googleusercontent.com/eJZPEFVUXPM66D1cIEVeRDp8bEWY6WmnXBOfIp1X-BcU60kGax_k7S8HHxYpmEfOnK7jQYM1fSLX_KVxUPhr"
+    },
+    {
+      "id":12,
+      "name_skin":"Ropa Fall Guys",
+      "skin_url":"https://ia601505.us.archive.org/9/items/fall-guys_202010/Image/12.FallGuys-Ropa.png",
+      "view_skin":"https://lh3.googleusercontent.com/CIcPpV4uQ368PwcXea1GNASL9-UBpMH46qejSnorCKvJ7XwCAMJuSj0a-GoA_6YKumkeQKrj6jHBf2YzdHmndNU"
+    },
+    {
+      "id":13,
+      "name_skin":"Fall Guys Pirate",
+      "skin_url":"https://ia801505.us.archive.org/9/items/fall-guys_202010/Image/13. FallGuys-Pirate.png",
+      "view_skin":"https://lh3.googleusercontent.com/xsIBrYfj_x9WTSkILgPGkkQ251PS_CKr6cUZyTEvV3sZEv-sVYrZ4Hd3cBr-d_znnZwHmLqJEaRjLyYOJb5JKw"
+    },
+    {
+      "id":14,
+      "name_skin":"Fall Guys Cactus",
+      "skin_url":"https://ia801505.us.archive.org/9/items/fall-guys_202010/Image/14.%20FallGuys-Cactus.png",
+      "view_skin":"https://lh3.googleusercontent.com/lo5P0YNjqfKV3pgaAgmmjocOFCDsXantbz2P7N9e7N1LKDTxzxZUwXePR3kmJoudeSDMbd95en3qEJUuIEJEzOs"
+    },
+    {
+      "id":15,
+      "name_skin":"Fall Guys Blue",
+      "skin_url":"https://ia801505.us.archive.org/9/items/fall-guys_202010/Image/15.%20FallGuys-Blue.png",
+      "view_skin":"https://lh3.googleusercontent.com/HU6g5fLnE545w0ZLmljHy6CuHklW8N1CGFvklbVOa1COeASGS2EGKsxH6ntAhEcV5oiuawcdTb3As2WmcBl3gQ"
+    }
+  ],
+  "Addons":
+  [
+
+  ],
+  "Maps":
+  [
+
+  ]
+}
