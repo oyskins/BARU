@@ -1,0 +1,256 @@
+{
+	"Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin1.png",
+      "view_skin":"file:///android_asset/1.png"
+    },
+    {
+      "id":2,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin2.png",
+      "view_skin":"file:///android_asset/2.png"
+    },
+    {
+      "id":3,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin3.png",
+      "view_skin":"file:///android_asset/3.png"
+    },
+    {
+      "id":4,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin4.png",
+      "view_skin":"file:///android_asset/4.png"
+    },
+    {
+      "id":5,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin5.png",
+      "view_skin":"file:///android_asset/5.png"
+    },
+    {
+      "id":6,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin6.png",
+      "view_skin":"file:///android_asset/6.png"
+    },
+    {
+      "id":7,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin7.png",
+      "view_skin":"file:///android_asset/7.png"
+    },
+    {
+      "id":8,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin8.png",
+      "view_skin":"file:///android_asset/8.png"
+    },
+    {
+      "id":9,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin9.png",
+      "view_skin":"file:///android_asset/9.png"
+    },
+    {
+      "id":10,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin10.png",
+      "view_skin":"file:///android_asset/10.png"
+    },
+    {
+      "id":11,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin11.png",
+      "view_skin":"file:///android_asset/11.png"
+    },
+    {
+      "id":12,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin12.png",
+      "view_skin":"file:///android_asset/12.png"
+    },
+    {
+      "id":13,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin13.png",
+      "view_skin":"file:///android_asset/13.png"
+    },
+    {
+      "id":14,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin14.png",
+      "view_skin":"file:///android_asset/14.png"
+    },
+    {
+      "id":15,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin15.png",
+      "view_skin":"file:///android_asset/15.png"
+    },
+    {
+      "id":16,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin16.png",
+      "view_skin":"file:///android_asset/16.png"
+    },
+    {
+      "id":17,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin17.png",
+      "view_skin":"file:///android_asset/17.png"
+    },
+    {
+      "id":18,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin18.png",
+      "view_skin":"file:///android_asset/18.png"
+    },
+    {
+      "id":19,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin19.png",
+      "view_skin":"file:///android_asset/19.png"
+    },
+    {
+      "id":20,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin20.png",
+      "view_skin":"file:///android_asset/20.png"
+    },
+    {
+      "id":21,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin21.png",
+      "view_skin":"file:///android_asset/21.png"
+    },
+    {
+      "id":22,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin22.png",
+      "view_skin":"file:///android_asset/22.png"
+    },
+    {
+      "id":23,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin23.png",
+      "view_skin":"file:///android_asset/23.png"
+    },
+    {
+      "id":24,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin24.png",
+      "view_skin":"file:///android_asset/24.png"
+    },
+    {
+      "id":25,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin25.png",
+      "view_skin":"file:///android_asset/25.png"
+    },
+    {
+      "id":26,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin26.png",
+      "view_skin":"file:///android_asset/26.png"
+    },
+    {
+      "id":27,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin27.png",
+      "view_skin":"file:///android_asset/27.png"
+    },
+    {
+      "id":28,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin28.png",
+      "view_skin":"file:///android_asset/28.png"
+    },
+    {
+      "id":29,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin29.png",
+      "view_skin":"file:///android_asset/29.png"
+    },
+    {
+      "id":30,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin30.png",
+      "view_skin":"file:///android_asset/30.png"
+    },
+    {
+      "id":31,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin31.png",
+      "view_skin":"file:///android_asset/31.png"
+    },
+    {
+      "id":32,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin32.png",
+      "view_skin":"file:///android_asset/32.png"
+    },
+    {
+      "id":33,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin33.png",
+      "view_skin":"file:///android_asset/33.png"
+    },
+    {
+      "id":34,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin34.png",
+      "view_skin":"file:///android_asset/34.png"
+    },
+    {
+      "id":35,
+      "name_skin":"Villager Skins",
+      "skin_url":"https://oyskins.github.io/Fileimg/Villager/skin35.png",
+      "view_skin":"file:///android_asset/35.png"
+    }
+  ],
+  "Addons":
+  [
+
+  ],
+  "Maps":
+  [
+
+  ]
+}
