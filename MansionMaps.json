@@ -1,0 +1,193 @@
+{
+	"Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+
+  ],
+  "Skin":
+  [
+
+  ],
+  "Addons":
+  [
+
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Mansions & Houses Maps",
+      "map_url":"https://godev3.github.io/housemod/map/map1.zip",
+      "view_map":"file:///android_asset/map1.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":2,
+      "name_map":"Mansions & Houses Maps",
+      "map_url":"https://godev3.github.io/housemod/map/map2.zip",
+      "view_map":"file:///android_asset/map2.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":3,
+      "name_map":"Mansions & Houses Maps",
+      "map_url":"https://godev3.github.io/housemod/map/map3.zip",
+      "view_map":"file:///android_asset/map3.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":4,
+      "name_map":"Mansions & Houses Maps",
+      "map_url":"https://godev3.github.io/housemod/map/map4.zip",
+      "view_map":"file:///android_asset/map4.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":5,
+      "name_map":"Mansions & Houses Maps",
+      "map_url":"https://godev3.github.io/housemod/map/map5.zip",
+      "view_map":"file:///android_asset/map5.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":6,
+      "name_map":"Mansions & Houses Maps",
+      "map_url":"https://godev3.github.io/housemod/map/map6.zip",
+      "view_map":"file:///android_asset/map6.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":7,
+      "name_map":"Mansions & Houses Maps",
+      "map_url":"https://godev3.github.io/housemod/map/map7.zip",
+      "view_map":"file:///android_asset/map7.jpg",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":8,
+      "name_map":"Mansions & Houses Maps",
+      "map_url":"https://godev3.github.io/housemod/map/map8.zip",
+      "view_map":"file:///android_asset/map8.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":9,
+      "name_map":"Mansions & Houses Maps",
+      "map_url":"https://godev3.github.io/housemod/map/map9.zip",
+      "view_map":"file:///android_asset/map9.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":10,
+      "name_map":"Mansions & Houses Maps",
+      "map_url":"https://godev3.github.io/housemod/map/map10.zip",
+      "view_map":"file:///android_asset/map10.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":11,
+      "name_map":"Mansions & Houses Maps",
+      "map_url":"https://godev3.github.io/housemod/map/map11.zip",
+      "view_map":"file:///android_asset/map11.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":12,
+      "name_map":"Mansions & Houses Maps",
+      "map_url":"https://godev3.github.io/housemod/map/map12.zip",
+      "view_map":"file:///android_asset/map12.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":13,
+      "name_map":"Mansions & Houses Maps",
+      "map_url":"https://godev3.github.io/housemod/map/map13.zip",
+      "view_map":"file:///android_asset/map13.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":14,
+      "name_map":"Mansions & Houses Maps",
+      "map_url":"https://godev3.github.io/housemod/map/map14.zip",
+      "view_map":"file:///android_asset/map14.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":15,
+      "name_map":"Mansions & Houses Maps",
+      "map_url":"https://godev3.github.io/housemod/map/map15.zip",
+      "view_map":"file:///android_asset/map15.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":16,
+      "name_map":"Mansions & Houses Maps",
+      "map_url":"https://godev3.github.io/housemod/map/map16.zip",
+      "view_map":"file:///android_asset/map16.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":17,
+      "name_map":"Mansions & Houses Maps",
+      "map_url":"https://godev3.github.io/housemod/map/map17.zip",
+      "view_map":"file:///android_asset/map17.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":18,
+      "name_map":"Mansions & Houses Maps",
+      "map_url":"https://godev3.github.io/housemod/map/map18.zip",
+      "view_map":"file:///android_asset/map18.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":19,
+      "name_map":"Mansions & Houses Maps",
+      "map_url":"https://godev3.github.io/housemod/map/map19.zip",
+      "view_map":"file:///android_asset/map19.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":20,
+      "name_map":"Mansions & Houses Maps",
+      "map_url":"https://godev3.github.io/housemod/map/map20.zip",
+      "view_map":"file:///android_asset/map20.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    },
+    {
+      "id":21,
+      "name_map":"Mansions & Houses Maps",
+      "map_url":"https://godev3.github.io/housemod/map/map21.zip",
+      "view_map":"file:///android_asset/map21.png",
+      "des_map":"https://oyskins.github.io/Tutorial/map.html"
+    }
+  ]
+}
