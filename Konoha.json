@@ -1,0 +1,137 @@
+{
+	"Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Naruto",
+      "skin_url":"https://ia601405.us.archive.org/11/items/naruto_20201019_0639/Image%20Naruto/1_Naruto.png",
+      "view_skin":"https://lh3.googleusercontent.com/jkLpIIocm1vmHMPgBXuGi8eMyxQ9SBxuAzi5QrQcvG7OgbrpSCzYY8jnakTqckEXQqcAc_jMypW3gNxdcpaL1w"
+    },
+    {
+      "id":2,
+      "name_skin":"Kakashi Naruto",
+      "skin_url":"https://ia601405.us.archive.org/11/items/naruto_20201019_0639/Image%20Naruto/2_kakashi_Naruto.png",
+      "view_skin":"https://lh3.googleusercontent.com/roJnnjBUElRhDcZVraY_qnwcrtu3sib9xeUUTnX1MjvTQswhl8B2knFPyEbRcuBEU8-M2TM5fc9-r28OfRcOzw"
+    },
+    {
+      "id":3,
+      "name_skin":"Naruto Rikudou Sennin",
+      "skin_url":"https://ia601405.us.archive.org/11/items/naruto_20201019_0639/Image%20Naruto/3_Naruto_Rikudou_Sennin.png",
+      "view_skin":"https://lh3.googleusercontent.com/TvjYnhg6LvhqWNWYvN4hckNB1fZd_-7BiS6NvaZ4boKs02-YBi1z38k3-OdBMhrijgOEQZU4b7HaZTDj9g7J"
+    },
+    {
+      "id":4,
+      "name_skin":"Boruto e Naruto",
+      "skin_url":"https://ia601405.us.archive.org/11/items/naruto_20201019_0639/Image%20Naruto/4_boruto_e_naruto.png",
+      "view_skin":"https://lh3.googleusercontent.com/_8b0hy5x103dPP49UB67UFL1KzY8a2nLGf8grtQa4aKCQEL5AOJg0E0HH1dRNqTcrJo1OlrdSsHQxL0FAB34uQ"
+    },
+    {
+      "id":5,
+      "name_skin":"Naruto Uzumaki",
+      "skin_url":"https://ia601405.us.archive.org/11/items/naruto_20201019_0639/Image%20Naruto/5_Naruto_Uzumaki.png",
+      "view_skin":"https://lh3.googleusercontent.com/IeAu8pM7rqXcJodK2f8ixgSbdGT0di1EYsYdCU_jk_Qx4j61E4f9yWgAB9qxwD39JN7qulSNBCR0L2ROApgW8g"
+    },
+    {
+      "id":6,
+      "name_skin":"Naruto Saque",
+      "skin_url":"https://ia601405.us.archive.org/11/items/naruto_20201019_0639/Image%20Naruto/6_pack_de_skins_de_naruto_saque.png",
+      "view_skin":"https://lh3.googleusercontent.com/0NJOXwaEKfR5ePtDkrBuLb0E0km2jVtNimsAZ99sdl-84Ei6RgIExzS7pXGabQNzL77dof79KugYaoCrVCOq"
+    },
+    {
+      "id":7,
+      "name_skin":"Melhor Skin",
+      "skin_url":"https://ia601405.us.archive.org/11/items/naruto_20201019_0639/Image%20Naruto/7_melhor_skin_de_todos_os_tempos_q_eu_ja_fiz_de_naruto_pq_a_primeira.png",
+      "view_skin":"https://lh3.googleusercontent.com/2I3jN8qWYFfBUfMgw-4bvaS5EUypvNOWOTItcSKQsLxdecCyn4ehrz6CxgUOMCcefKwOHHzDsbzdQzSuiFaqGw"
+    },
+    {
+      "id":8,
+      "name_skin":"Naruto Hokage",
+      "skin_url":"https://ia601405.us.archive.org/11/items/naruto_20201019_0639/Image%20Naruto/8_naruto_hokage.png",
+      "view_skin":"https://lh3.googleusercontent.com/BfXFtxLUxe3-HqEzECXOrQN8rM22rPQvCz_-VW-x4OPS36umqUL2fhzIOsA1a7gTLlAQqA27my94ppK2VDnY"
+    },
+    {
+      "id":9,
+      "name_skin":"Naruto Akatsuki",
+      "skin_url":"https://ia601405.us.archive.org/11/items/naruto_20201019_0639/Image%20Naruto/9_naruto_akatsuki.png",
+      "view_skin":"https://lh3.googleusercontent.com/mv4G9HVpJtq9Y1tvlZw3nWit-zpaZxnN1B44S2IcqQ91dthIsad3BU6314VnPKGe1sQkp9WoDg_H04k7Ic9nHA"
+    },
+    
+    {
+      "id":10,
+      "name_skin":"Naruto Modo Kurama",
+      "skin_url":"https://ia601405.us.archive.org/11/items/naruto_20201019_0639/Image%20Naruto/10_naruto_modo_kurama.png",
+      "view_skin":"https://lh3.googleusercontent.com/IIOe0MaklKnWaMPLDIx3Be0bdWm9fBCZ4c9P9h0iHlDjTLBaYNBoY3YRTjGG3b-QMa7CMhBjy8fbFNnEQlhE"
+    },
+    {
+      "id":11,
+      "name_skin":"Naruto Chakra do Kurama",
+      "skin_url":"https://ia601405.us.archive.org/11/items/naruto_20201019_0639/Image%20Naruto/11_Naruto_Chakra_do_Kurama.png",
+      "view_skin":"https://lh3.googleusercontent.com/5D1trLhIdojGHotDqprZrQMBeQepjOYdGn2mYsif7Hw66V1OKTU-_SO78GDrbHXYhBWqeftehTGCUKe-VqJKzw"
+    },
+    {
+      "id":12,
+      "name_skin":"Kkin Tobi do Anime Naruto",
+      "skin_url":"https://ia601405.us.archive.org/11/items/naruto_20201019_0639/Image%20Naruto/12_skin_Tobi_do_anime_naruto.png",
+      "view_skin":"https://lh3.googleusercontent.com/Gui5Ha8qvL5gA__wF-0tPLnp-OOrngVD9BC0a9AyGWbbQ6IigEiDt-uEI9Guj84wVV3ZXAZ4mFf50f1v_P4xKA"
+    },
+    {
+      "id":13,
+      "name_skin":"Pain-Naruto",
+      "skin_url":"https://ia601405.us.archive.org/11/items/naruto_20201019_0639/Image%20Naruto/13_Pain_Naruto.png",
+      "view_skin":"https://lh3.googleusercontent.com/RCV3zgvJAj11HJcVOe32J7_35Fuoa8tQlhf1FBXj6Zd0YPtIDO6s0SWwVXjpbpKFNcicEQw4Id8c-Vr-ZBv8"
+    },
+    {
+      "id":14,
+      "name_skin":"Naruto Kyub",
+      "skin_url":"https://ia601405.us.archive.org/11/items/naruto_20201019_0639/Image%20Naruto/14_naruto_kyub.png",
+      "view_skin":"https://lh3.googleusercontent.com/_SKyGLzIngOmi5dcNZBQ6TzlFbGcLLMpoRt4AtUiOWbnEDI8xaWeK7IBrCGgAXjJideAqoia6uv8qMCmF3gamKI"
+    },
+    {
+      "id":15,
+      "name_skin":"Naruto Com Kyuubi NV3",
+      "skin_url":"https://ia601405.us.archive.org/11/items/naruto_20201019_0639/Image%20Naruto/15_Naruto_com_Kyuubi_NV3.png",
+      "view_skin":"https://lh3.googleusercontent.com/H6pwhcC1wXiadBbHAWMCAuUR32O-UkjVDFtupT6QgMA3gAgknXgcJiclMg1VjWelTUcdf6f0K-jXihIRXNAiOA"
+    }
+  ],
+  "Addons":
+  [
+
+  ],
+  "Maps":
+  [
+
+  ]
+}
