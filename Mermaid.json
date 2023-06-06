@@ -1,0 +1,136 @@
+{
+	"Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"ariel",
+      "skin_url":"https://ia601505.us.archive.org/27/items/mermaid-man/Image%20Mermaid/1_Ariel_The_Little_Mermaid.png",
+      "view_skin":"https://lh3.googleusercontent.com/iLcE1WXC3sw4q_oWtGQ070jsTO4uqVQRqP08cMAIY9WhnSUY607hJ4S9so5TbD-f23fpZ8nMjuMh8-7PvqU5ag"
+    },
+    {
+      "id":2,
+      "name_skin":"Mermaid Princess",
+      "skin_url":"https://ia601505.us.archive.org/27/items/mermaid-man/Image%20Mermaid/2_Mermaid_Princess.png",
+      "view_skin":"https://lh3.googleusercontent.com/TR3nO4cbhY7qwi-Ygw2gN3TyYBfrODYVf9ZAYyb7PKnndyvMn3Rm6WsopQGp6MjjpRt447dmSpyzoocG3i19zw"
+    },
+    {
+      "id":3,
+      "name_skin":"Mermaid Girl",
+      "skin_url":"https://ia601505.us.archive.org/27/items/mermaid-man/Image%20Mermaid/3_Mermaid_Girl.png",
+      "view_skin":"https://lh3.googleusercontent.com/Nyo1D5rUgyCGtlD1FLEFV3bM3lTsSmqZrgJHgI8VzWnb5Gib1BN4ySzezVjBpOHFItm1_E8VI5aCQBhTn0JNjVQ"
+    },
+    {
+      "id":4,
+      "name_skin":"little kelly mermaid",
+      "skin_url":"https://ia601505.us.archive.org/27/items/mermaid-man/Image%20Mermaid/4_little_kelly_mermaid.png",
+      "view_skin":"https://lh3.googleusercontent.com/7xfJdezqqt5JwPXroOtaEgzIS790WfLv3UVk_6-u8sa9qwvpJbx_8DBlncTOzyh2Ok5_bkHMxOBcmEOg82lIhzw"
+    },
+    {
+      "id":5,
+      "name_skin":"Maya's Mermaid Skin",
+      "skin_url":"https://ia601505.us.archive.org/27/items/mermaid-man/Image%20Mermaid/5_Maya_s_Mermaid_Skin.png",
+      "view_skin":"https://lh3.googleusercontent.com/K53r8PN4W-VbbUBhuMRwnVhRmU59ZwLHlBHlw1FBnXsNTRbj9DE6jb8gv48VGbNJKjj6ai6ve2LGKLPdeGawrg"
+    },
+    {
+      "id":6,
+      "name_skin":"swimming Princess mermaid Laura",
+      "skin_url":"https://ia601505.us.archive.org/27/items/mermaid-man/Image%20Mermaid/6_swimming_Princess_mermaid_Laura.png",
+      "view_skin":"https://lh3.googleusercontent.com/bfTVisz2cWAn_coloqfGwMTUW5lDzS6n7D2CIf_cSHmHu0FHDCJTSlPCWb58K4rWAcoX2mJJNs90I6J0mvTe"
+    },
+    {
+      "id":7,
+      "name_skin":"Mermaid Queen",
+      "skin_url":"https://ia601505.us.archive.org/27/items/mermaid-man/Image%20Mermaid/7_Mermaid_Queen.png",
+      "view_skin":"https://lh3.googleusercontent.com/FDucl29OVyQ1KW5y1yHSwBpqcl-5vbmXcmwBTdGhO8-6iMr1WDTTl129gYawTcn0MgtablR1RkNPmDisB6q5VQ"
+    },
+    {
+      "id":8,
+      "name_skin":"Quenn of mermaid",
+      "skin_url":"https://ia601505.us.archive.org/27/items/mermaid-man/Image%20Mermaid/8_Quenn_of_mermaid.png",
+      "view_skin":"https://lh3.googleusercontent.com/uK8RoV5kBL9VIziVOYNcAFCu7ttRuS14poBntXl8eJODvIQdlieCaAATkLS5SQM5WbZMekSPRbd09Ja0UJGtJQ"
+    },
+    {
+      "id":9,
+      "name_skin":"Modified Mermaid",
+      "skin_url":"https://ia601505.us.archive.org/27/items/mermaid-man/Image%20Mermaid/9_Modified_Mermaid.png",
+      "view_skin":"https://lh3.googleusercontent.com/xboym-hAs49xWQF97Q7PI0oBzpxoU4y1xnibD9ruB6c4vbCjl-fBK1fvaV39JD3X9So7GQ8hlk97NaPyuTiggEM"
+    },
+    {
+      "id":10,
+      "name_skin":"Nature Princess Mermaid Skin",
+      "skin_url":"https://ia601505.us.archive.org/27/items/mermaid-man/Image%20Mermaid/10_Nature_Princess_Mermaid_Skin.png",
+      "view_skin":"https://lh3.googleusercontent.com/9fppg8pm1ApOO2uI-en3okgIEQOjGeqsxzrmAMZdI8d2sUJNSkWnZWPn4QUjA4Ggi_ayyayLeCKtNxOrZ-HGWA"
+    },
+    {
+      "id":11,
+      "name_skin":"Fire Princess Mermaid Skin",
+      "skin_url":"https://ia601505.us.archive.org/27/items/mermaid-man/Image%20Mermaid/11_Fire_Princess_Mermaid_Skin.png",
+      "view_skin":"https://lh3.googleusercontent.com/FwRoJgYFHSt-HI3ZYuyuSgWK6otGh8OPA1yomYqqpRKwXx9cRRNnKwnqGRzWYLjPhsvicKeKPIoybxb9PyCnEQ"
+    },
+    {
+      "id":12,
+      "name_skin":"Aphmau Mermaid Edit",
+      "skin_url":"https://ia601505.us.archive.org/27/items/mermaid-man/Image%20Mermaid/12_Aphmau_Mermaid_Edit.png",
+      "view_skin":"https://lh3.googleusercontent.com/HWRHGI3lAlzm7KCVf3IYYYIfmv7xI6ts_tZ2-AOGvswriYULzyeUpXmHMRT7r0iBKjCmTS1rHKCld0aBYBh4u4E"
+    },
+    {
+      "id":13,
+      "name_skin":"The Pink Mermaid",
+      "skin_url":"https://ia601505.us.archive.org/27/items/mermaid-man/Image%20Mermaid/13_The_Pink_Mermaid.png",
+      "view_skin":"https://lh3.googleusercontent.com/dXe1CQDBKoX977B1JL1TU78-LwTemEj8c7cZnR9V5fs58AYn50s-fJHdOwwnAhiTC_xwk_E50TV-bMODY_4iyrk"
+    },
+    {
+      "id":14,
+      "name_skin":"Aphmau Mermaid Editthe blite mermaid",
+      "skin_url":"https://ia601505.us.archive.org/27/items/mermaid-man/Image%20Mermaid/14_the_blite_mermaid.png",
+      "view_skin":"https://lh3.googleusercontent.com/GTtccf6dMxV3hua0vYgCy2zEYQPBR5TvDMj03McT8WDw4gWfNw4zkQRLVp_mMCdKuEVI5VStrzxQcDT-7sztbpg"
+    },
+    {
+      "id":15,
+      "name_skin":"Mermaid Man",
+      "skin_url":"https://ia601505.us.archive.org/27/items/mermaid-man/Image%20Mermaid/15_MERMAID_MAN.png",
+      "view_skin":"https://lh3.googleusercontent.com/gzmPupLKqWzVltvS3Ue6sCy7pvufP21ZDStW9qKveoiv9LXl0v_osuZ8Y4UTE3bbv5OYEE0xIBbGo7o8iectadM"
+    }
+  ],
+  "Addons":
+  [
+
+  ],
+  "Maps":
+  [
+
+  ]
+}
