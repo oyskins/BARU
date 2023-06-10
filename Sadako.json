@@ -35,424 +35,112 @@
   "Skin":
   [
     {
-      "id":1,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin1.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/1.png"
+      "id":0,
+      "name_skin":"sadako haiko",
+      "skin_url":"https://lh3.googleusercontent.com/3jq4G8hZyWkHm8iTpaNcN8UpKqhe4AF33WkaliSIiwAUxLir9sa2Rkuj6kmhRtECWH08L33UJcnDoQ41kVHJlxIriLa0HZLHQ8A",
+      "view_skin":"https://lh3.googleusercontent.com/G1dNTx2-A5GOeEFDSOLHdSORhrBpJ7nlOhVag8LQVW7Wl5mUC1BBy1asZ3h3EZcdYAVFuYl1v_mcX0JHtWp8roPLK_Oc9jiPZNp5"
     },
+    {
+      "id":0,
+      "name_skin":"Sadako Xdjames 2",
+      "skin_url":"https://lh3.googleusercontent.com/UOr9Do5ckDbofAIyBxKkPgxnYoGq7Wq0vrNmHIOwb1JBnSjnArli9h_tdq-eazMNEBzThBwF_AJPUfb2dMkB7Q",
+      "view_skin":"https://lh3.googleusercontent.com/ekJStEj0D9J6UQhWZ8CfdgYPhSe7CQJAFDu6vsNYbafSHKIL7vfLGbf3RdVm-dNuFk6f0sibzY2x734lLGabMw"
+    },
+	{
+      "id":0,
+      "name_skin":"CUTE SADAKO RAINBOW",
+      "skin_url":"https://lh3.googleusercontent.com/wb5KMjSy3jU4u6I6NMSDPcS9ZlxSEDfnQT2sJW-JoiN1kqwy1wM_4mkAvI-X20Bwn26RUSa4Jkis-VRQilwwNRhWZ2nft-fVOJY",
+      "view_skin":"https://lh3.googleusercontent.com/D6TUpwaLQPC4wX9KBzHYvzlMtf2Dr7SKsaBp7heM_SBUlD3fVfhSrOUBeULSrHXuLME7GyFJo3wpax0JGY6vJCsmMEb4C8yiR6k4"
+    },
+    {
+      "id":0,
+      "name_skin":"sadako xd",
+      "skin_url":"https://lh3.googleusercontent.com/XM3uViyKGR8bXg0ohrssQUnhWFe_Ct43rnL8DYfRRpv7SZ_yLyi-yEtB9YuIHYJxrwsIj-dEYU5R78ULdi32FytY2Wyur4XGl6Wb",
+      "view_skin":"https://lh3.googleusercontent.com/Tcz4_P-OJ0f-E6VN4MC751qk5CNz_jEPVcUGULM8NMBIeI_66p6VyWoWPf7G07Dz9_EcBz0h1n7mH0CLK8uM85XkxYEckrQfExBB"
+    },
+	{
+      "id":0,
+      "name_skin":"Sadako XDjames",
+      "skin_url":"https://lh3.googleusercontent.com/iAxP8Onc_ckS-bjR1T19E2-_AosaEQUKqM5GjWjHCJv7SfhpGKzwuizmdkjvoYlXAUbImFGQU2blT3M2_DPoVqms5tqrPCwugas",
+      "view_skin":"https://lh3.googleusercontent.com/8SRz8UpgCYZgALpDz1IsYRL1GIsoTPUtgUBuHGIrNXl3XZap_uGxNlauUh5JGPViAm-qVv4rRoCpQAjHXdygbMYSh5diaQUkqlc"
+    },
+    {
+      "id":0,
+      "name_skin":"Sadako",
+      "skin_url":"https://lh3.googleusercontent.com/TsMKfN5B9MIxGxt36A8z-ksghwXquY_U_jq97_HqGd5sh73YFzhpZ0MkT7srgGO5z_ygEylQWoN7rbFetfIVyQ",
+      "view_skin":"https://lh3.googleusercontent.com/RD0uIsyG1nA0Wfq8SckLBbzL-BqgfLp2cnbr4Xklzb2gjxXX0_B53ZnHHNhp79HNX0RIiIMbShMWueEJJpoP"
+    },
+	{
+      "id":0,
+      "name_skin":"princess sadako",
+      "skin_url":"https://lh3.googleusercontent.com/td7Ybkd5IueJPfCswVGx5tJpVxr0sujfIF9gdITsk-Vip3efQLi-OiZF9ZdQg7oRG390ebxr-joDXmUa8k-tOnyz1pjB9i3ilA",
+      "view_skin":"https://lh3.googleusercontent.com/Ugb_pc5af5JaGncSUGjOCh3mSUhN9Gh9G1k7zLIgOVW5SKsYpGiQttigjm5iyU_uanLGk1nAr3VQFGCS4ymit7PKIq8TCptKpw"
+    },
+    {
+      "id":0,
+      "name_skin":"sadako white red",
+      "skin_url":"https://lh3.googleusercontent.com/Gv_HNAXmEfsKSaF_Wsokim-yB5Wb84OHsz6aSZS6tteLm3vl6FyEupmPobirMCUzDTqqT7q3LCNuiSD5Mn6iOKBbYBmQRykYlEc",
+      "view_skin":"https://lh3.googleusercontent.com/7C3ZywG5dMUtgjNNQ_pM0RWNJY83mLFLULCo-QtBClPfrkZGSkgYOcPa592wAZHJ3sHhSYHSOrRnv0V8jaKLMBLqP8SnDKiLGDg"
+    },
+	{
+      "id":0,
+      "name_skin":"sadako",
+      "skin_url":"https://lh3.googleusercontent.com/mj4o20Dht07qLZXpVdzbwFLrWqG0kNggz2PR_ChuU3kYS6H_OaJvY0WXHzZyTW6jYFYPuydLLVmwElXqXdwPS9wr_v0Yw_Sxbw",
+      "view_skin":"https://lh3.googleusercontent.com/C3PCs3jueA8mc3f2qlSNxlBrDCrusi9brwMPTKH_9-O95beSj5Pt6MB_sDIKpXfozozKaNCQCHtC9iOqoyQbhHTDqTUdun2aEg"
+    },
+    {
+      "id":0,
+      "name_skin":"squid game sadako",
+      "skin_url":"https://lh3.googleusercontent.com/rAaYLLp7CimKtz-xSeTPPG3R8gIYfvIKJ1wdrXJQuaM2TNKzanpGjKhWk9G8GqmwQ1gm-tEZTvzV-msd9zVf1uAmQ6rI0sJdGIQ",
+      "view_skin":"https://lh3.googleusercontent.com/2baTCHHjMV4p20w_Og2DdTJXpkU-wKc_kzo3zG9P-n_SvEfvKoj74RIl8RVlfY2_8oZf7-4nHdTCWNtKgGb_9j1ZroXWRpXy2-A"
+    },
+	{
+      "id":0,
+      "name_skin":"kayako sadako",
+      "skin_url":"https://lh3.googleusercontent.com/Y2mig1gFoUzXh4z1LyUygE0ufdymZv4ijMtX9thCDUqFXldpKQmSS1-mwIHK5clqp2DmdGDgXa3nAaGHBxK6QR-8QE37iUIK5w",
+      "view_skin":"https://lh3.googleusercontent.com/U8IQdPLWjorRyK08kxRuuTEqvSeJVwKJ_PhXXcbjJICjrkDf63PAMZFONOZ1ienMFHjYIsGzZR-bnF8HWBsqNNbGHjobVVrtxIw"
+    },
+    {
+      "id":0,
+      "name_skin":"sadako",
+      "skin_url":"https://lh3.googleusercontent.com/0YU_asodhuLQQ32Ep_mTRpCXimH2aWQbjM0QM2zmv4qY3sW94MeN0za-GomaDWEBdw1MnqyRiJsKgv0lq_IdCeXY34IEylE1_do",
+      "view_skin":"https://lh3.googleusercontent.com/qDO3O7SQZx22Uar3iar8dpYfDLbDt4wX3c-y98IoljiWrEY3RIwcBs_S8Iu4b-cnuCKaLpEzNIAd1mGGFjSF7COHD6LxWg_PA9gX"
+    },
+	{
+      "id":0,
+      "name_skin":"sadako mod",
+      "skin_url":"https://lh3.googleusercontent.com/QIbb5Jn9htH3Uy41mXLK1eLouw_Q0nV24nNNk6VoT2HC4PdCv0RbSPL-lnuq_toNA3uDLteSHkqDhf_TWyupCOLZ_LCOHTAoCw",
+      "view_skin":"https://lh3.googleusercontent.com/Vr1euxAGkBTcy3kdFNzV0jgtkafweWQOK9WQzHMpshe9ux6No_74L6rVzXlBVnzWVfZ9GW9BnARTTY4pf1mxj0eUARH5m3hOjESS"
+    },
+    {
+      "id":0,
+      "name_skin":"sadako cat",
+      "skin_url":"https://lh3.googleusercontent.com/fA6B47ZaQ-Wx7b57dzEQDThXGBsjNBFoLT-TdDAGGD7ifZtwW7Y9h3F6jEJrbhjOAnoUevUWuKXW3qLOrJimthZMm8ceSmj2a-U",
+      "view_skin":"https://lh3.googleusercontent.com/cUIGwmjutxBGaBNUjIf5nHAG9ukOUmfvz_CWcn143eOt4qF8Kz-0QBaHXmH4K6qNMvJ8WtYi3bRHwotmpuArbmSrqXt9qy9OVj8"
+    },
+	{
+      "id":0,
+      "name_skin":"tube sadako",
+      "skin_url":"https://lh3.googleusercontent.com/n5ipUqQXeyvsAhFHjLt94sqHh2Ck_56lSfiWYbLwJKXGlf14QYut-o7tSrBo7ka4K5JTacvy00iP-V6jc75SZyK5y0hOKyg8Og",
+      "view_skin":"https://lh3.googleusercontent.com/kwMehGn54NEj2ocMtJs12XuyvjN0HcN1-G6MbhtQgsGn5kLI3urN_mnsDuV4g1GWLqKFuVdhDh3_LINmRYJHWibnlwEH--LPGD-t"
+    },
+    {
+      "id":0,
+      "name_skin":"sadako cute blue",
+      "skin_url":"https://lh3.googleusercontent.com/naCSgEB6sjEguRYMbGhZxgozXx-P1Evncut7KN3Wjl1sddB4ZX7GwRylE1OUDamrrMd-yceLoSMfzqZy_2gmr7iFEVoFMrJ_4VU",
+      "view_skin":"https://lh3.googleusercontent.com/lh6wOB1mUr2TC9nPMyjCvS8VIqvjjv5cztbD-Yo2qSD7qDWvwNb-x7RaADpHZRmcwuTEHN9DY_7ldFSYQNhWVwHYt3CcmDFe4cg"
+    },
+	{
+      "id":0,
+      "name_skin":"sadako xd",
+      "skin_url":"https://lh3.googleusercontent.com/iDb6Kon6tl2Tnc55AM4uoJQY_F4Z18ItwkKA5Y5ANH5BkwIqlO1RBEOHRz16Fiut3SSl7KJc5ypkDve0D6M_xnzac3QVgSk23Q",
+      "view_skin":"https://lh3.googleusercontent.com/yqaQuQVEqesuh3yYmfh4maiJemocGXmH2h5CtcKzNmJ8WjLCdaKmYLjwBa3_40vN7ufN5IR0l10twcFpElgdpZBg_N6HXeQ5Olo"
+    },
     {
-      "id":2,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin2.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/2.png"
-    },
-    {
-      "id":3,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin3.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/3.png"
-    },
-    {
-      "id":4,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin4.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/4.png"
-    },
-    {
-      "id":5,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin5.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/5.png"
-    },
-    {
-      "id":6,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin6.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/6.png"
-    },
-    {
-      "id":7,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin7.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/7.png"
-    },
-    {
-      "id":8,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin8.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/8.png"
-    },
-    {
-      "id":9,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin9.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/9.png"
-    },
-    {
-      "id":10,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin10.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/10.png"
-    },
-    {
-      "id":11,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin11.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/11.png"
-    },
-    {
-      "id":12,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin12.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/12.png"
-    },
-    {
-      "id":13,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin13.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/13.png"
-    },
-    {
-      "id":14,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin14.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/14.png"
-    },
-    {
-      "id":15,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin15.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/15.png"
-    },
-    {
-      "id":16,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin16.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/16.png"
-    },
-    {
-      "id":17,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin17.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/17.png"
-    },
-    {
-      "id":18,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin18.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/18.png"
-    },
-    {
-      "id":19,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin19.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/19.png"
-    },
-    {
-      "id":20,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin20.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/20.png"
-    },
-    {
-      "id":21,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin21.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/21.png"
-    },
-    {
-      "id":22,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin22.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/22.png"
-    },
-    {
-      "id":23,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin23.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/23.png"
-    },
-    {
-      "id":24,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin24.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/24.png"
-    },
-    {
-      "id":25,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin25.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/25.png"
-    },
-    {
-      "id":26,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin26.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/26.png"
-    },
-    {
-      "id":27,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin27.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/27.png"
-    },
-    {
-      "id":28,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin28.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/28.png"
-    },
-    {
-      "id":29,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin29.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/29.png"
-    },
-    {
-      "id":30,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin30.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/30.png"
-    },
-    {
-      "id":31,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin31.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/31.png"
-    },
-    {
-      "id":32,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin32.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/32.png"
-    },
-    {
-      "id":33,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin33.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/33.png"
-    },
-    {
-      "id":34,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin34.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/34.png"
-    },
-    {
-      "id":35,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin35.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/35.png"
-    },
-    {
-      "id":36,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin36.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/36.png"
-    },
-    {
-      "id":37,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin37.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/37.png"
-    },
-    {
-      "id":38,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin38.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/38.png"
-    },
-    {
-      "id":39,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin39.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/39.png"
-    },
-    {
-      "id":40,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin40.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/40.png"
-    },
-    {
-      "id":41,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin41.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/41.png"
-    },
-    {
-      "id":42,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin42.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/42.png"
-    },
-    {
-      "id":43,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin43.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/43.png"
-    },
-    {
-      "id":44,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin44.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/44.png"
-    },
-    {
-      "id":45,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin45.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/45.png"
-    },
-    {
-      "id":46,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin46.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/46.png"
-    },
-    {
-      "id":47,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin47.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/47.png"
-    },
-    {
-      "id":48,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin48.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/48.png"
-    },
-    {
-      "id":49,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin49.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/49.png"
-    },
-    {
-      "id":50,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin50.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/50.png"
-    },
-    {
-      "id":51,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin51.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/51.png"
-    },
-    {
-      "id":52,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin52.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/52.png"
-    },
-    {
-      "id":53,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin53.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/53.png"
-    },
-    {
-      "id":54,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin54.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/54.png"
-    },
-    {
-      "id":55,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin55.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/55.png"
-    },
-    {
-      "id":56,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin56.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/56.png"
-    },
-    {
-      "id":57,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin57.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/57.png"
-    },
-    {
-      "id":58,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin58.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/58.png"
-    },
-    {
-      "id":59,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin59.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/59.png"
-    },
-    {
-      "id":60,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin60.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/60.png"
-    },
-    {
-      "id":61,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin61.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/61.png"
-    },
-    {
-      "id":62,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin62.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/62.png"
-    },
-    {
-      "id":63,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin63.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/63.png"
-    },
-    {
-      "id":64,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin64.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/64.png"
-    },
-    {
-      "id":65,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin65.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/65.png"
-    },
-    {
-      "id":66,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin66.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/66.png"
-    },
-    {
-      "id":67,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin67.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/67.png"
-    },
-    {
-      "id":68,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin68.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/68.png"
-    },
-    {
-      "id":69,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin69.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/69.png"
-    },
-    {
-      "id":70,
-      "name_skin":"SADAKO GHOST",
-      "skin_url":"https://rastariski01.github.io/sadakoskin/skin/skin70.png",
-      "view_skin":"http://creativemods.github.io/sadako/skin/70.png"
+      "id":0,
+      "name_skin":"SADAKO PİNK CATA",
+      "skin_url":"https://lh3.googleusercontent.com/DrasKTePBgH0zPmsHRcogOgFj6nPgLUA1HUbqfbh4iramjfD7m20F7zhwJEEUuD13ugF98vojwK2g9TAKzSLaZ10l8PM9ox-3oLG",
+      "view_skin":"https://lh3.googleusercontent.com/ltkpISqEZMhMUZAhPKNZdtHxCyo6k97tzkk8rxUmAxnrapyq-wMt18vXo61FDRSJ1PcOEXuFQt5p8IA862nowzBwPHAANsr1rQ"
     }
   ],
   "Addons":
