@@ -2,12 +2,12 @@
 	"Ads":
   [
     {
-      "select_main_ads": "",
+      "select_main_ads": "APPLOVIN-D",
       "select_backup_ads":"",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
+      "main_ads_banner": "a6974b1759b1dbd8",
+      "main_ads_intertitial":"3d536ffe0b879c67",
       "main_ads_natives":"",
-      "main_ads_rewards":"",
+      "main_ads_rewards":"a9e8b1a50f6e77c5",
       "backup_ads_natives":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
@@ -15,15 +15,15 @@
       "open_ads_admob":"",
       "open_ads_alien":"",
       "switch_open_ads":"",
-      "switch_banner_natives_ads":"",
+      "switch_banner_natives_ads":"1",
       "interval_intertitial": 5,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
+      "high_paying_keyword_1": "Insurance",
+      "high_paying_keyword_2": "travel",
+      "high_paying_keyword_3": "Investment",
+      "high_paying_keyword_4": "Gaming",
+      "high_paying_keyword_5": "E-commerce",
       "status_app": "0",
       "link_redirect": "https://"
     }
